@@ -1,22 +1,27 @@
 # Vendor Performance Dashboard
 
-This interactive Tableau dashboard visualizes vendor sales performance, comparing Last Complete Week (LCW) and Quarter-to-Date (QTW) metrics.
+This interactive dashboard provides a real-time comparison of store performance across vendors and departments, showing both Last Completed Week (LCW) and Quarter-to-Date (QTW) performance.
 
-## Features
+## 🚀 Features
+- 📊 Side-by-side visual comparison of LCW vs QTW
+- 🔁 Week-over-Week Difference chart (auto-updating via MTW inputs)
+- 🎚️ User-controlled axis scaling for better visibility
+- 🧼 Clean UI with department-based color coding
+- 📂 Data reshaped & cleaned from raw Excel into Tableau-ready format
 
-- Dynamic Week-over-Week (WoW) difference calculations
-- Interactive filters for departments and vendors
-- User-controlled axis scaling for WoW visualization
+## 🔗 Live Demo
+👉🏾 [View the Dashboard](https://239whicks.github.io/vendor-performance-dashboard/)
 
-## View the Dashboard
+## 🧠 Tools Used
+- **Excel** for data prep
+- **Tableau Public** for dashboard design & interactivity
+- **GitHub Pages** for project hosting
+- **Notion** (optional) for portfolio integration
 
-Access the live dashboard here: [Vendor Performance Dashboard](https://239whicks.github.io/vendor-performance-dashboard/)
+## 🧾 About the Project
+This dashboard was created to analyze real retail store data and demonstrate practical data visualization skills. It's part of my active portfolio as I transition into a professional data analyst role.
 
-## Data Sources
-
-- LCW and QTW sales data extracted from internal reports
-- Data processed and reshaped using Excel and Tableau
-
-## Author
-
-Willie Hicks
+## 👨🏾‍💻 Author
+**Willie Hicks**  
+Aspiring Data Analyst | Tableau Enthusiast | Data-Driven Storyteller  
+📧 [williejhicksjr@gmail.com]
